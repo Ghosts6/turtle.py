@@ -55,3 +55,5 @@ triangle()
 ```
 
 # 📹video:
+
+[turtle.webm](https://github.com/Ghosts6/turtle.py/assets/95994481/de321c4d-5fc1-43b3-9ba0-7f6d90eace41)
