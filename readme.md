@@ -1,3 +1,11 @@
+![baner](https://github.com/Ghosts6/Local-website/blob/main/img/Baner.png)
+
+# 🖱️Turtle exercise:
+
+some simple code that i write to learn about turtle library and differend method and usage of it
+
+# code sample:
+
 ```python
 from turtle import*
 import colorsys
@@ -45,3 +53,5 @@ triangle()
 triangle()
 triangle()
 ```
+
+# 📹video:
